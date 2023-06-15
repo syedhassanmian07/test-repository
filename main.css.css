@@ -1,0 +1,92 @@
+*{
+    margin: auto;
+    
+}
+.container
+{
+    width: 1200px;
+    height: auto;
+    background-color: white;
+
+}
+header
+{
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+}
+.logo
+{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    background-image: url(./img/logo.jpg);
+    background-size: 100% 100%;
+    float: left;
+}
+nav
+{
+    width: 950px;
+    height: 90px;
+    background-color:white;
+    text-align: center;
+    font-size: 60px;
+    display: contents;
+    font-style: italic;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.slider
+{
+    width: 1200px;
+    height: 400px;
+    background-color:white;
+}
+.box
+{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    float: left;
+
+}
+.content
+{
+    width: 1200px;
+    height: 800px;
+    background-color:crimson;
+    display: flex;
+
+}
+aside
+{
+    width: 250px;
+    height: 800px;
+    background-color:white;
+
+}
+article
+{
+    width: 950px;
+    height: 800px;
+    background-color:white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.product
+{
+    width: 300px;
+    height: 350px;
+    background-color:white;    
+}
+footer
+{
+    width: 1200px;
+    height: 100px;
+    background-color:white;
+}
+
+
+
+
